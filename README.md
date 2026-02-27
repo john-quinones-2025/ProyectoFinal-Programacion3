@@ -8,7 +8,7 @@
 * FABRIZIO LEIVA NOVOA
 * ARMANDO ANDRES RUESTA (no trabajo)
 
-**[Enlace al Video de Presentación (Máx. 15 min)]** *https://drive.google.com/drive/folders/1Z_BDn4P2AMKapo_dmdUMzuZCggClKg0o?usp=sharing*
+**[Enlace al Video de Presentación]** *https://drive.google.com/drive/folders/1Z_BDn4P2AMKapo_dmdUMzuZCggClKg0o?usp=sharing*
 
 ---
 
